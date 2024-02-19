@@ -4,6 +4,10 @@ RealTimeTextCollab is a real-time text collaboration application built with Reac
 
 <a href="https://github.com/Bassssem/RealTimeTextCollab/blob/main/video.mp4" >link of video</a>
 
+<img src="img1.jpg">
+<img src="img2.jpg">
+
+
 ## Features
 
 - Collaborate in real-time: Create, edit, and share text with multiple users simultaneously.
