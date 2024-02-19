@@ -2,10 +2,7 @@
 
 RealTimeTextCollab is a real-time text collaboration application built with ReactJS and NodeJS.
 
-<video width="320" height="240" controls>
-  <source src="video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<a href="https://github.com/Bassssem/RealTimeTextCollab/blob/main/video.mp4" >link of video</a>
 
 ## Features
 
